@@ -1,7 +1,5 @@
 # 🌸 Welcome to Samia's Profile! 🌸
 
-![Pink and Blue Aesthetic](https://i.pinimg.com/736x/84/65/49/846549c4ff38de45813b71ee4fa38b7d.jpg)
-
 ## 💕 About Me 💕
 
 ```diff
@@ -56,5 +54,5 @@ Web Development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkqdldk&show_icons=true&theme=cobalt)
 
-
+![Pink and Blue Aesthetic](https://i.pinimg.com/736x/84/65/49/846549c4ff38de45813b71ee4fa38b7d.jpg)
 
