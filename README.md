@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkqdldk&hide_progress=true)
 ```diff
 Core Languages
-+ C/C
++ C/C++
 + Java
 + Python 
 + Shell/Bash
