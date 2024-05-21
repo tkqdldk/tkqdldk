@@ -1,14 +1,14 @@
-# 🌸 Welcome to Samia's Profile! 🌸
+#  Welcome to Samia's Profile! 
 
-## 💕 About Me 💕
+##  About Me 
 
 ```diff
- 💖 Network Security enthusiast
- 🎀 Women in STEM advocate
- 🌸 CS student
+ + Network Security enthusiast
+ + Women in STEM advocate
+ + CS student
 ```
 
-## 🪷 Languages, tools and current stack 🪷
+##  Languages, tools and current stack 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkqdldk&hide_progress=true)
 ```diff
@@ -50,7 +50,7 @@ Web Development
 + Node.js
 ```
 
-## 💜 Stats 💜
+##  Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkqdldk&show_icons=true&theme=cobalt)
 
