@@ -3,9 +3,9 @@
 ##  About Me 
 
 ```diff
- + Network Security enthusiast
- + Women in STEM advocate
- + CS student
+ -> Network Security enthusiast
+ -> Women in STEM advocate
+ -> CS student
 ```
 
 ##  Languages, tools and current stack 
