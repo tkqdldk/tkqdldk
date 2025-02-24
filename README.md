@@ -3,9 +3,9 @@
 ##  About Me 
 
 ```diff
- -> Network Security enthusiast
+ -> NetSec and AppSec enthusiast
  -> Women in STEM advocate
- -> CS student
+ -> CS student/ Aspiring DevSecOps engineer
 ```
 
 ##  Languages, tools and current stack 
@@ -30,6 +30,7 @@ Document Preparation
 Containerization and Orchestration
 + Docker
 + Kubernetes
++ Jenkins
 
 Messaging System
 + Kafka
@@ -43,11 +44,13 @@ Low-Level Programming
 Database
 + SQL
 + MongoDB
++ Postgresql
 
 Web Development
 + JavaScript
 + React
 + Node.js
++ Python Django
 ```
 
 ##  Stats 
