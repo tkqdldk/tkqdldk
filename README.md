@@ -10,7 +10,6 @@
 
 ##  Languages, tools and current stack 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkqdldk&hide_progress=true)
 ```diff
 Core Languages
 + C/C++
@@ -52,9 +51,5 @@ Web Development
 + Node.js
 + Python Django
 ```
-
-##  Stats 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkqdldk&show_icons=true&theme=cobalt)
 
 
