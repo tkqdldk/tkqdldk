@@ -1,5 +1,5 @@
-# Hello World !
-**Developer/Aspiring DevSecOps Engineer | NetSec Student | Women in STEM Advocate**
+# Hello World, you found me :)
+**Developer/Aspiring DevSecOps Engineer | NetSec Student**
 
 ---
 
@@ -13,14 +13,19 @@ Passionate about **Network Security (NetSec)** and **Application Security (AppSe
  | Category                | Technologies & Tools                                                                 |
  |-------------------------|--------------------------------------------------------------------------------------|
  | **Programming**         | Java, Python, Shell/Bash, Git                                                        |
- | **Networking**          | OSI & TCP/IP, Wireshark                                                              |
+ | **Networking**          | OSI & TCP/IP, Wireshark, basic protocols, QOS                                         |
  | **Documentation**       | LaTeX, Jupyter Notebook                                                              |
- | **Containerization**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD                                     |
+ | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD                                     |
  | **Messaging Systems**   | Kafka                                                                                 |
  | **Virtualization**      | GNS3                                                                                 |
  | **Databases**           | SQL, MongoDB, PostgreSQL                                                             |
  | **Web Development**     | JavaScript, React, Node.js, Python (Django)                                         |
- | **Security**            | Snort, Hydra                                                                         |
+ | **Security**            | OWASP top 10, Snort, Hydra                                                                         |
+ 
 
 ---
+ ## Currently doing
 
+ Working on school projects and making sure I get my degree.
+
+ 
