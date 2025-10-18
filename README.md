@@ -1,11 +1,12 @@
 # Hello World, you found me :)
+
 **Developer/Aspiring DevSecOps Engineer | NetSec Student**
 
----
 
 ## About Me
+
 Passionate about **Network Security (NetSec)** and **Application Security (AppSec)**, I am currently studying for my Master's degree in CompSci at Sorbonne University and working as a web developer.
----
+
 
 ## Technical Stack
 
@@ -23,7 +24,6 @@ Passionate about **Network Security (NetSec)** and **Application Security (AppSe
  | **Security**            | OWASP top 10, Snort, Hydra                                                                         |
  
 
----
  ## Currently doing
 
  Working on school projects and making sure I get my degree.
