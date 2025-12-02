@@ -1,4 +1,4 @@
-# Hello World, you found me :)
+# Hello World :))
 
 **Developer/Aspiring DevSecOps Engineer | NetSec Student**
 
@@ -13,15 +13,17 @@ Passionate about **Network Security (NetSec)** and **Application Security (AppSe
 ### **Core Languages & Tools**
  | Category                | Technologies & Tools                                                                 |
  |-------------------------|--------------------------------------------------------------------------------------|
- | **Programming**         | Java, Python, Shell/Bash, Git                                                        |
- | **Networking**          | OSI & TCP/IP, Wireshark, basic protocols, QOS                                         |
- | **Documentation**       | LaTeX, Jupyter Notebook                                                              |
- | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD                                     |
+ | **Programming**         | Java, Python, Shell/Bash                                                        |
+ | **Versionning**         | Git                                                    |
+ | **Networking**          | OSI & TCP/IP, Wireshark, basic protocols, QoS                                         |
+ | **Doc**       | LaTeX, Jupyter Notebook                                                              |
+ | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD                                  |
  | **Messaging Systems**   | Kafka                                                                                 |
  | **Virtualization**      | GNS3                                                                                 |
  | **Databases**           | SQL, MongoDB, PostgreSQL                                                             |
- | **Web Development**     | JavaScript, React, Node.js, Python (Django)                                         |
- | **Security**            | OWASP top 10, Snort, Hydra                                                                         |
+ | **Web Development**     | JavaScript, React, Angular, Node.js, Python (Django),PHP                                         |
+ | **Security**            | SAST (Checkmarx), Snort, Hydra, Scapy, Nmap                                                                         |
+  | **Monitoring**            | Splunk                                                                     |
  
 
  ## Currently doing
