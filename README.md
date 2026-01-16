@@ -1,5 +1,5 @@
 
-**Developer/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast **
+Developer/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
 
 
 ## About Me
