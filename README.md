@@ -9,7 +9,7 @@ Developer/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
 
 ## Technical Stack
 
-### **Core Languages & Tools**
+### **Languages & Tools**
  | Category                | Technologies & Tools                                                                 |
  |-------------------------|--------------------------------------------------------------------------------------|
  | **Programming**         | Java, Python, Shell/Bash                                                        |
