@@ -29,6 +29,6 @@ Developer/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
 
  ## Currently doing
 
- Working on school projects and making sure I get my degree. Also trying to make a Calibre plug-in with LLM in my free time :)))
+ Working on school projects and making sure I get my degree. Also trying to make a Calibre plug-in in my free time :)))
 
  
