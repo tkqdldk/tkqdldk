@@ -12,19 +12,20 @@ Developer/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
  
   | Category                | Technologies & Tools                                                                 |
   |-------------------------|--------------------------------------------------------------------------------------|
-  | **Programming**         | Java, Python, Shell/Bash                                                        |
-  | **Versionning**         | Git (GitHub, GitLab, Bitbucket)                                             |
-  | **Networking**          | OSI & TCP/IP, Wireshark, Cisco (IOS), SSH, VPN, SDN                                     |
-  | **Doc**       | LaTeX, Jupyter Notebook, Confluence                                                             |
-  | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD , Openshift                                 |
-  | **Messaging Systems**   | Kafka, RabbitMQ, MQTT                                                                                 |
-  | **Virtualization**      | GNS3, VMware, VirtualBox                                                                                 |
-  | **Web Development**     | JavaScript, React, Angular, Node.js, Python (Django), PHP, HTML5/CSS3                                         |
-  | **Sec/Pentest**            | Snort, Hydra, Scapy, Nmap, Sqlmap, Metasploit, Burp Suite, Kali Linux                             |
-   | **Monitoring**            | Splunk, Zabbix, Wazuh                                                                     |
-    | **Cloud**            | AWS, Azure, Google Cloud Platform (GCP)                                                                    |
-   | **OS**            | Linux (Ubuntu, Debian, RHEL), Windows Server, macOS                                                                    |
+  | **Programming**         | Java, Python, Shell/Bash                                                             |
+  | **Versionning**         | Git (GitHub, GitLab, Bitbucket)                                                      |
+  | **Networking**          | OSI & TCP/IP, Wireshark, Cisco (IOS), SSH, VPN, SDN                                  |
+  | **Doc**       | LaTeX, Jupyter Notebook, Confluence                                                            |
+  | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD , Openshift                                    |
+  | **Messaging Systems**   | Kafka, RabbitMQ, MQTT                                                                |
+  | **Virtualization**      | GNS3, VMware, VirtualBox                                                             |
+  | **Web Development**     | JavaScript, React, Angular, Node.js, Python (Django), PHP, HTML5/CSS3                |
+  | **Sec/Pentest**            | Snort, Hydra, Scapy, Nmap, Sqlmap, Metasploit, Burp Suite, Kali Linux             |
+  | **Monitoring**            | Splunk, Zabbix, Wazuh                                                              |
+  | **Cloud**            | AWS, Azure, Google Cloud Platform (GCP)                                                 |
+  | **OS**            | Linux (Ubuntu, Debian, RHEL), Windows Server, macOS                                        |
 
+ *And more to come...*
  </details>
  
 
