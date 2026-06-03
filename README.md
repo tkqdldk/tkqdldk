@@ -19,7 +19,7 @@ Dev/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
   | **Versionning**         | Git (GitHub, GitLab, Bitbucket)                                                      |
   | **Networking**          | OSI & TCP/IP, Wireshark, Cisco (IOS), SSH, VPN, SDN                                  |
   | **Doc**       | LaTeX, Jupyter Notebook, Confluence                                                            |
-  | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD , Openshift                                    |
+  | **DevOps**    | Docker, Kubernetes, Jenkins, OpenShift, XLR/XLD , Openshift, Ansible                           |
   | **Messaging Systems**   | Kafka, RabbitMQ, MQTT                                                                |
   | **Virtualization**      | GNS3, VMware, VirtualBox                                                             |
   | **Web Development**     | JavaScript, React, Angular, Node.js, Python (Django), PHP, HTML5/CSS3                |
@@ -30,13 +30,13 @@ Dev/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
 
  *And more to come...*
 
- &rarr; Go, Terraform, Ansible.
+ &rarr; Go, Terraform.
  
 </details>
  
 
  ## Currently doing
 
- Working on school projects and making sure I get my degree. Also trying to make a Calibre plug-in in my free time :)
+Finishing my Master's degree and apprenticeship as a Dev ! Also working on my homelab and portfolio... Stay tuned ;)
 
  
