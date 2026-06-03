@@ -30,13 +30,13 @@ Dev/Aspiring DevSecOps Engineer | NetSec Student | Tech enthousiast
 
  *And more to come...*
 
- &rarr; Go, Terraform.
+ &rarr; Go, IAC, Cloud certifications...
  
 </details>
  
 
  ## Currently doing
 
-Finishing my Master's degree and apprenticeship as a Dev ! Also working on my homelab and portfolio... Stay tuned ;)
+Finishing my Master's degree and apprenticeship as a Dev ! Also working on my homelab and portfolio :)
 
  
