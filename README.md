@@ -33,6 +33,6 @@
 
  ## Currently doing
 
-Finishing my Master's degree and apprenticeship as a Dev ! Also working on my homelab and portfolio :)
+Working on my homelab and portfolio :)
 
  
