@@ -3,7 +3,6 @@
  CompSci grad (specializing in Network Security) at Sorbonne University and DevOps dev.
  I enjoy building stuff for my personal use, mostly to make things easier.
 
-## Technical Stack
 <details>
  <Summary>Langages and Tools </Summary>
 
