@@ -1,7 +1,7 @@
 ## About Me
 
  CompSci grad (specializing in Network Security) at Sorbonne University and DevOps dev.
- I enjoy building stuff for my personal use, mostly to make things easier.
+ I enjoy building stuff for my personal use, mostly to make things easier. Interested in OSINT, Open Source and RE/Ethical Hacking.
 
 <details>
  <Summary>Langages and Tools </Summary>
